@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on studying software development in school<br>👯 I’m looking to collaborate on more complex c# projects so i can learn from them<br>🤝 I’m looking for help with c++ because I'm interested in learning it<br>🌱 I’m currently learning c#<br>💬 Ask me about anything<br>⚡ Fun fact, I'm lazy as hell
+🔭 I’m currently working on studying software development in school<br>👯 I’m looking to collaborate on more complex c# projects so i can learn from them<br>🤝 I’m looking for help with c++ because I'm interested in learning it<br>🌱 I’m currently learning c#<br>💬 Ask me about anything<br>⚡ Fun fact, I'm lazy as hell because thats what my teachers told me to be
 
 
 # 💻 Tech Stack:
