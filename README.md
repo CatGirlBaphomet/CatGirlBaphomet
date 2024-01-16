@@ -1,45 +1,27 @@
-<h1 align="center">Hi 👋, I'm Berend</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CatGirlBaphomet&label=Profile%20views&color=0e75b6&style=flat" alt="CatGirlBaphomet" /> </p>
+# 💫 About Me:
+🔭 I’m currently working on studying software development in school<br>👯 I’m looking to collaborate on more complex c# projects so i can learn from them<br>🤝 I’m looking for help with c++ because I'm interested in learning it<br>🌱 I’m currently learning c#<br>💬 Ask me about anything<br>⚡ Fun fact, I'm lazy as hell because that's what my teachers told me to be
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CatGirlBaphomet&theme=" alt="CatGirlBaphomet" /></a> </p>
 
-- 🔭 I’m currently working on **studying software development in school**
-- 👯 I’m looking to collaborate on **more complex c# projects so i can learn from them**
-- 🤝 I’m looking for help with **C++ because I'm interested in learning it**
-- 🌱 I’m currently learning **C++ and C#**
-- 💬 Ask me about **anything.**
-- 📫 How to reach me **baph.dev@gmail.com**
-- 👨‍💻 All of my projects are available at **https://github.com/CatGirlBaphomet**
-- 📄 Know about my experiences **https://baph.dev**
-- ⚡ Fun fact **I'm lazy as hell because that's what my teachers told me to be**
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CatGirlBaphomet&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CatGirlBaphomet&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CatGirlBaphomet&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div> <a href="https://github.com/CatGirlBaphomet" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:baph.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=CatGirlBaphomet&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatGirlBaphomet&layout=compact&theme=" alt=CatGirlBaphomet />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=CatGirlBaphomet&show_icons=true&locale=en&theme=tokyonight" alt="CatGirlBaphomet" /></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=CatGirlBaphomet&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CatGirlBaphomet&theme=tokyonight" alt="CatGirlBaphomet" /></p>
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/CatGirlBaphomet">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CatGirlBaphomet&theme=tokyonight" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CatGirlBaphomet&theme=tokyonight" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CatGirlBaphomet&theme=tokyonight" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CatGirlBaphomet&theme=tokyonight" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CatGirlBaphomet&theme=tokyonight" height="180em" />
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=CatGirlBaphomet&theme=tokyo-night"/>
+---
+[![](https://visitcount.itsvg.in/api?id=CatGirlBaphomet&icon=2&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
